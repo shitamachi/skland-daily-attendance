@@ -8,8 +8,8 @@
   },
   "kv_namespaces": [
     {
-      "binding": "KV",
-      "id": "f67ae953026845daa1a25cef8cf8de36"
+      "binding": "SKLAND_DAILY_ATTENDANCE_STORAGE",
+      "id": "3060372838584cba98e4ee1fe40162bb"
     }
   ],
   "triggers": {
